@@ -61,7 +61,7 @@ function heightConverter() {
     secOpt === "Select"
   ) {
     alert(
-      "Masukkan angka dan pilih opsi satuan yang akan dikonversi terlebih dahulu."
+      "Anjayyy, Masukkan angka dan pilih opsi satuan yang akan dikonversi terlebih dahulu."
     );
     return;
   }
